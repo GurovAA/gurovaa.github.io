@@ -15,7 +15,9 @@
 
 ![none](https://github.com/GurovAA/gurovaa.github.io/blob/master/labs/lab1/01_A0_PlantUML.png)
 
-### 
+***
+
+![none](https://github.com/GurovAA/gurovaa.github.io/blob/master/labs/lab1/02_A0_PlantUML.png)
 
 ## Лабораторная 2
 
